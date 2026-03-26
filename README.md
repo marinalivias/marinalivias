@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td valign="top">
-<img src="https://img.shields.io/static/v1?label=Overview&message=Marina&color=e3f2fd&style=for-the-badge&logo=GitHub"/>
+<img src="https://img.shields.io/static/v1?label=Overview&message=Marina&color=e0e0e0&style=for-the-badge&logo=GitHub"/>
 <br> <br>
 <b>Technologies:<b/> 
 
@@ -12,7 +12,7 @@
 
 <td valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=marinalivias&show_icons=true&title_color=0d47a1&text_color=1976d2&icon_color=0d47a1&bg_color=e3f2fd&cache_seconds=2300" />
+<img src="https://github-readme-stats.vercel.app/api?username=marinalivias&show_icons=true&title_color=424242&text_color=616161&icon_color=424242&bg_color=f5f5f5&cache_seconds=2300" />
 
 </td>
 </tr>
