@@ -1,18 +1,19 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=marinalivias&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="GitHub stats"/>
+<table>
+<tr>
+<td valign="top">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Marina&color=e3f2fd&style=for-the-badge&logo=GitHub"/>
+<br> <br>
+<b>Technologies:<b/> 
 
-### Hi! 👋
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,java,spring" /><br/>
+<img src="https://skillicons.dev/icons?i=php,mysql,postgres,git,linux,figma,ps" />
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Marina&color=f8efd4&style=for-the-badge&logo=GitHub"/>
+</td>
 
-<p>
-Graphic Designer<br/>
-Information Technology student
-</p>
+<td valign="top">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=marinalivias&show_icons=true&title_color=0d47a1&text_color=1976d2&icon_color=0d47a1&bg_color=e3f2fd&cache_seconds=2300" />
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,java,spring,php,mysql,postgres,git,linux,figma,ps" />
-
-</div>
+</td>
+</tr>
+</table>
