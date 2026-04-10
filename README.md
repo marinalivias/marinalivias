@@ -12,7 +12,7 @@
 
 <td valign="top">
 
-<img src="https://streak-stats.demolab.com?user=marinalivias&locale=pt_BR&mode=daily&theme=graywhite&hide_border=true&border_radius=8" height="220" alt="streak graph"/>
+<img src="https://streak-stats.demolab.com?user=marinalivias&theme=graywhite&hide_border=true&cache_seconds=86400" />
 
 </td>
 </tr>
