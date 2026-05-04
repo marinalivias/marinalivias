@@ -5,8 +5,8 @@
 <br> <br>
 <b>Technologies:</b> 
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,java,spring" /><br/>
-<img src="https://skillicons.dev/icons?i=php,mysql,postgres,git,linux,figma,ps" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,nodejs,react" /><br/>
+<img src="https://skillicons.dev/icons?i=java,spring,php,mysql,postgres,figma,ps" />
 
 </td>
 
