@@ -12,8 +12,6 @@
 <tr>
 <td valign="middle" width="50%">
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Marina&color=e0e0e0&style=for-the-badge&logo=GitHub"/>
-<br><br>
 
 Backend developer building reliable APIs and data-driven systems, now diving into AI and Deep Learning. Outside of code, I’m fascinated by physics and engineering.
 
