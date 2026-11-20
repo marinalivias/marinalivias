@@ -28,7 +28,7 @@ Backend developer building reliable APIs and data-driven systems, now diving int
 
 <b>Technologies/Tools</b>
 <br><br>
-<img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,nodejs,php,postgres,mysql,docker,aws,linux,html,css,js,ts,react,tailwind,bootstrap,dart,flutter,pytorch,tensorflow,arduino&perline=12" />
+<img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,nodejs,postgres,mysql,docker,aws,linux,html,css,js,ts,react,tailwind,bootstrap,dart,flutter,pytorch,tensorflow,arduino&perline=12" />
 <br><br>
 
 </td>
